@@ -7,7 +7,7 @@ const websites: WebsitesData = {
       {
         id: "my-blog",
         title: "Website",
-        img: "https://zxh.me/img/avatar.jpg",
+        img: "https://zxh.me/img/avatar.png",
         link: "https://zxh.me/",
         inner: true
       },

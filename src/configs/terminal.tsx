@@ -13,7 +13,7 @@ const terminal: TerminalData[] = [
         content: (
           <div className="py-1">
             <div>
-              Hi, this is Xiaohan Zou. I am a PhD student at the Computer Science and
+              Hi, this is YoshCasaster. I am a PhD student at the Computer Science and
               Engineering department of Pennsylvania State University.
             </div>
           </div>
@@ -46,7 +46,7 @@ const terminal: TerminalData[] = [
                 target="_blank"
                 rel="noreferrer"
               >
-                renovamenzxh@gmail.com
+                yoshwdd@gmail.com
               </a>
             </li>
             <li>
@@ -74,22 +74,22 @@ const terminal: TerminalData[] = [
               Linkedin:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.linkedin.com/in/xiaohan-zou"
+                href="https://www.linkedin.com/in/YoshCasaster-zou"
                 target="_blank"
                 rel="noreferrer"
               >
-                xiaohan-zou
+                YoshCasaster-zou
               </a>
             </li>
             <li>
               Personal Website:{" "}
               <a
                 className="text-blue-300"
-                href="https://zxh.me"
+                href=""
                 target="_blank"
                 rel="noreferrer"
               >
-                https://zxh.me
+                https://codefomo.xyz
               </a>
             </li>
             <li>

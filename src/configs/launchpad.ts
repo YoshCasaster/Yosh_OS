@@ -23,7 +23,7 @@ const launchpadApps: LaunchpadData[] = [
     id: "gungnir",
     title: "Gungnir",
     img: "img/icons/launchpad/gungnir.png",
-    link: "github.com/YoshCasaster
+    link: "github.com/YoshCasaster"
   },
 
   {
